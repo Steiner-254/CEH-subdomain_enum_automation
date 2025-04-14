@@ -47,5 +47,7 @@ The script automatically checks for required dependencies and installs them if n
    
    >> Filter and save live subdomains to `live_subs_domain_com.txt`.
 
+   ![Proof Of Working Script](images/poc.png)
+
 ## License
 - This project is provided as-is with no warranty. You are free to modify it as needed for your own use.
