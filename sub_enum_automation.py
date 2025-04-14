@@ -11,7 +11,7 @@ It also checks for required dependencies:
     - The Subfinder tool (downloads and sets up if not found in PATH)
 
 Usage:
-    python3 recon_automation.py --target domain.com
+    python3 sub_enum_automation.py --target domain.com
 """
 
 import argparse
