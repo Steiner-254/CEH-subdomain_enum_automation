@@ -51,3 +51,13 @@ The script automatically checks for required dependencies and installs them if n
 
 ## License
 - This project is provided as-is with no warranty. You are free to modify it as needed for your own use.
+
+## Contributing 🤝
+- Project Developed By: [Steinet254](https://twitter.com/Steiner254)
+- Feel free to fork this repo, submit issues, or create pull requests! Contributions are always welcome.
+
+## Happy Hacking! 🚀
+
+```vbet
+Happy Hacking <3
+```
